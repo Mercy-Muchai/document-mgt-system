@@ -75,7 +75,7 @@
     "bcrypt-nodejs": "0.0.3",
     "chai": "^4.0.2",
     "chai-http": "^4.3.0",
-    "chromedriver": "^85.0.0",
+    "chromedriver": "^91.0.1",
     "cheerio": "0.22.0",
     "colors": "1.4.0",
     "compression": "1.7.4",
